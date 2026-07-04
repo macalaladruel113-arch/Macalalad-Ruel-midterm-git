@@ -28,3 +28,20 @@ ul {
 li {
     margin-bottom: 8px;
 }
+
+/* About Me Section */
+#about-me {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+#about-me h2 {
+    color: #0056b3;
+}
+
+#about-me p {
+    margin: 8px 0;
+}
