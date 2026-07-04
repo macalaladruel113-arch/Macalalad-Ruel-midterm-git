@@ -1,0 +1,47 @@
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+    color: #333;
+}
+
+/* Heading */
+h1, h2 {
+    color: #0056b3;
+}
+
+/* Paragraph */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Skills Section */
+ul {
+    background-color: #ffffff;
+    padding: 15px 30px;
+    border: 1px solid #ccc;
+    width: 250px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* About Me Section */
+#about-me {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+#about-me h2 {
+    color: #0056b3;
+}
+
+#about-me p {
+    margin: 8px 0;
+}
